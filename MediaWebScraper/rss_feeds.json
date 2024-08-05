@@ -1,0 +1,1691 @@
+{
+  "Afghanistan": [
+    "http://afghanpaper.com/cache/rss.xml",
+    "http://www.kabulpress.org/my/spip.php?page=backend&id_rubrique=60",
+    "http://pa.azadiradio.org/api/epiqq"
+  ],
+  "Albania": [
+    "http://www.balkanweb.com/site/feed/",
+    "http://tvklan.al/feed/",
+    "http://www.gazetatshqiptare.net/tag/gazeta-shqip/feed/",
+    "http://www.kohajone.com/?format=feed&type=rss",
+    "http://vplus.ca/feed/",
+    "http://www.panorama.com.al/category/lajmi-i-fundit/feed/"
+  ],
+  "Algeria": [
+    "http://www.t-algerie.com/rss-s11.xml",
+    "http://www.djelfa.info/vb/external.php?type=RSS2",
+    "http://www.algerie360.com/feed/",
+    "http://www.vosbooks.net/tag/journal-le-buteur-edition-du-dimanche-16-janvier-2011/feed",
+    "http://www.tsa-algerie.com/feed/",
+    "http://www.dzfoot.com/feed",
+    "http://www.lematindz.net/index.html?search_options=YTo2OntzOjEyOiJzZWFyY2hfbGltaXQiO2k6MTA7czoxNDoic2VhcmNoX29wdGlvbnMiO2E6Mzp7czoyMToic2VhcmNoX2NyZWF0ZWRfZmlsdGVyIjtpOjE7czoxOToic2VhcmNoX3N0YXR1c19saW1pdCI7aToxO3M6MTQ6ImdlbmVyaWNfc2VhcmNoIjthOjA6e319czox",
+    "http://feeds.feedburner.com/ElmoudjahidArticles"
+  ],
+  "Andorra": [
+    "http://feeds.tvo.org/TheAgendaWithStevePaikin",
+    "http://www.fotomac.com.tr/rss/anasayfa.xml",
+    "http://forum.donanimhaber.com/rss.asp?forumID=615&type=1",
+    "http://www.bondia.ad/rss.xml",
+    "http://www.andorradifusio.ad/xml/noticies_destacades_rtva"
+  ],
+  "Angola": [
+    "http://wwe.sapo.pt/wwe_sapo/rss2",
+    "http://www.portalangop.co.ao/angola/en_us/rss/9646679c-b223-4176-97a3-ca8d093290e4.xml",
+    "http://www.angola24horas.com/portal/index.php/entretenimento/minha-saude-e-terapeuta-sexual/itemlist/user/301-angola24horascomoportaldenoticias?format=feed",
+    "http://radiosdeportugal.com/radio-cultura-angolana/feed/",
+    "http://www.expanssiva.com.br/blog/feed/",
+    "http://duploimpacto.blogs.sapo.pt/data/rss?tag=not%C3%ADcias",
+    "http://tpa.sapo.ao/feeds/rss/desporto",
+    "http://www.angola24horas.com/portal/index.php/sociedade/itemlist/user/301-angola24horascomoportaldenoticias?format=feed",
+    "http://opais.co.ao/exame/home/feed/"
+  ],
+  "Antigua and Barbuda": ["http://caribarena.com/feed/"],
+  "Argentina": [
+    "http://toclarity.wordpress.com/feed/",
+    "https://www.infobae.com/feeds/rss/",
+    "https://www.ole.com.ar/rss/ultimas-noticias",
+    "https://www.perfil.com/feed",
+    "https://www.pagina12.com.ar/pagina/rss",
+    "https://www.ambito.com/contenidos/rss.html",
+    "https://www.diariouno.com.ar/rss"
+  ],
+  "Armenia": [
+    "http://news.am/eng/rss/",
+    "http://www.tert.am/rss/?language=tr",
+    "http://en.1in.am/feed",
+    "http://en.a1plus.am/feed",
+    "http://hubinfo.wordpress.com/tag/slaq/feed/",
+    "https://care4sevan.wordpress.com/feed/",
+    "http://stickers.panarmenian.net/feeds/eng/news/",
+    "http://www.panorama.am/rss/?lang=en",
+    "http://www.7or.am/am/feed",
+    "http://mamul.am/am/rss",
+    "http://hayeli.am/article/604384/feed/",
+    "http://ddr-russia.livejournal.com/data/rss",
+    "http://life.mediamall.am/?rss",
+    "http://securityweekly.com/podcast/psw.xml"
+  ],
+  "Aruba": [
+    "http://www.amigoe.com/curacao?format=feed&type=rss",
+    "http://www.24ora.com/index.php?format=feed&type=rss"
+  ],
+  "Australia": [
+    "http://www.abc.net.au/news/feed/46182/rss.xml",
+    "http://feeds.news.com.au/public/rss/2.0/news_sport_3168.xml",
+    "https://celebrityfix.wordpress.com/feed/",
+    "http://www.theage.com.au/rssheadlines/top.xml",
+    "http://bigpondnews.com/rssfeed/",
+    "http://www.brisbanetimes.com.au/rssheadlines/top.xml",
+    "http://feeds.news.com.au/public/rss/2.0/anow_breakingnews_230.xml"
+  ],
+  "Austria": [
+    "http://rss.orf.at/news.xml",
+    "http://www.krone.at/Nachrichten/rss.html",
+    "http://derstandard.at/?page=rss&ressort=seite1",
+    "http://www.kleinezeitung.at/rss/wirtschaft",
+    "http://kurier.at/xml/feed",
+    "http://www.oe24.at/xml/rssImage",
+    "http://www.fcbarcelona.com/football/list/articles.rss",
+    "http://diepresse.com/rss/Wirtschaft",
+    "http://www.vol.at/rss/tp:vol:vorarlberg",
+    "http://www.nachrichten.at/storage/rss/rss/wirtschaft.xml",
+    "http://lieferingersv.wordpress.com/comments/feed/",
+    "http://www.salzburg.com/nachrichten/kategorie/8/rss.xml",
+    "http://www.tt.com/rss/news.xml",
+    "https://www.laola1.at/templates/generated/1/xml/rss/newsRSS.xml",
+    "http://www.vienna.at/rss/om:vienna:bezirk:1200"
+  ],
+  "Azerbaijan": [
+    "http://news.day.az/rss/all.rss",
+    "http://news.milli.az/rss/",
+    "http://www.1news.az/rss.php",
+    "http://sevgi.azeri.net/feed/",
+    "http://en.trend.az/feeds/index.rss",
+    "http://www.azadliq.org/api/aororegtor",
+    "http://www.vesti.az/rss",
+    "http://cempion.az/feed/"
+  ],
+  "Bahamas": [
+    "http://bahamaspress.com/feed/",
+    "http://bahamaspress.com/category/news/feed/",
+    "http://www.tribune242.com/rss/obits/",
+    "http://www.thebahamasweekly.com/publish/rss.xml",
+    "http://www.bahamasb2b.com/entertainment/movies/movies-marathon.rss",
+    "http://www.thebahamasinvestor.com/tag/btc/feed/"
+  ],
+  "Bahrain": [
+    "http://halalchickensupplier.com/al-harumi/feed/",
+    "http://alivingperson.wordpress.com/feed/",
+    "http://www.twentyfoursevennews.com/category/media/bna-bahrain-news-agency/feed/",
+    "http://feeds.feedburner.com/alakhbarenglish"
+  ],
+  "Bangladesh": [
+    "http://global-news.info/daily-jugantor-%e0%a6%a6%e0%a7%88%e0%a6%a8%e0%a6%bf%e0%a6%95-%e0%a6%af%e0%a7%81%e0%a6%97%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a4%e0%a6%b0-bengali/feed/",
+    "http://www.kalerkantho.com/rss.xml",
+    "http://feeds.feedburner.com/DailySangram",
+    "http://bangladeshreal.com/?feed=rss2"
+  ],
+  "Barbados": [
+    "http://www.nationnews.com/feed/rss",
+    "http://www.barbadosturfclub.org/tag/petra-harvey/feed/",
+    "http://www.theguardian.com/world/barbados/rss"
+  ],
+  "Belarus": [
+    "http://gomelnews.onliner.by/feed",
+    "http://naviny.by/rss/alls.xml",
+    "http://www.21.by/pub/rss/topic_20.rss",
+    "http://nn.by/?c=rss-all&lang=en",
+    "http://afn.by/news/rss/",
+    "http://udf.by/rss.xml",
+    "http://ont.by/yandex.xml"
+  ],
+  "Belgium": [
+    "http://feeds.nieuwsblad.be/nieuws/snelnieuws",
+    "http://www.hln.be/rss.xml",
+    "http://archives.lesoir.be/rss/",
+    "http://rss.rtbf.be/media/rss/programmes/plus-belle-la-vie.xml",
+    "http://www.standaard.be/rss/section/1f2838d4-99ea-49f0-9102-138784c7ea7c",
+    "http://www.gva.be/rss/section/gva",
+    "http://lalibreevasion.blogs.lalibre.be/index.rss",
+    "http://www.sudinfo.be/feed/10127?google_editors_picks=true",
+    "http://www.demorgen.be/nieuws/rss.xml",
+    "http://www.tijd.be/rss/nieuws.xml",
+    "http://www.hbvl.be/rss/section/hbvl"
+  ],
+  "Belize": [
+    "http://edition.channel5belize.com/OYE/?feed=rss2&tag=love",
+    "http://www.7newsbelize.com/7news.xml",
+    "http://lovefm.com/feed/",
+    "http://www.hollywoodreporter.com/taxonomy/term/59/0/feed",
+    "http://pixelsdavao.wordpress.com/feed/",
+    "http://www.ambergristoday.com/rss.xml",
+    "http://amandala.com.bz/news/feed/"
+  ],
+  "Benin": [
+    "http://www.jolome.com/dir/rss/news/",
+    "http://www.lematinal.com/careers/rss/all/",
+    "http://www.benininfo.com/01wpvideo/?feed=comments-rss2",
+    "http://bjfoot.com/feed/",
+    "http://www.nouvellesmutations.com/?feed=rss2&p=3723",
+    "http://uwagp.wordpress.com/feed/"
+  ],
+  "Bermuda": [
+    "http://bernews.com/tag/rory-field/feed/",
+    "http://expobermuda.com/index.php/9-releases?format=feed&type=rss"
+  ],
+  "Bhutan": [
+    "http://www.thebhutanese.bt/tag/druk-green-power-corporation/feed/"
+  ],
+  "Bolivia": [
+    "http://www.eldeber.com.bo/rss/",
+    "http://www.eju.net/news/?mode=showRSS",
+    "http://www.opinion.com.bo/opinion/rss/cochabamba_rss.xml",
+    "https://erboldigital.wordpress.com/feed/",
+    "http://www.bolivia.com/el-sabor-de-bolivia/rss/",
+    "http://www.cambio.bo/?q=rss.xml",
+    "https://boliviasol.wordpress.com/category/departamentos/santa-cruz/feed/",
+    "http://feeds.feedburner.com/noticiasbol"
+  ],
+  "Bosnia and Herzegovina": [
+    "http://avazavazdergi.com/feed/",
+    "http://www.oslobodjenje.ba/rss/",
+    "http://www.vijesti.ba/feed/index.1.rss",
+    "http://www.bljesak.info/rss/vijesti",
+    "http://www.rtvtk.ba/index.php?option=com_content&view=section&layout=blog&id=5&Itemid=181&type=rss&format=feed",
+    "http://najbolje.ba/recenzije/ekskluziva-ba-najcitaniji-showbizz-portal-u-bih_l778_com_content.rss/",
+    "http://poskok.info/wp/?feed=rss2",
+    "http://www.uzivoradio.com/index.php?strana=rss&opcija=najslusanije-bih",
+    "http://www.apple.com/pr/feeds/pr.rss"
+  ],
+  "Botswana": [
+    "http://bwjobs.blogspot.com/feeds/posts/default?alt=rss",
+    "http://voice.com.co/?feed=rss2",
+    "http://fmradiobuffer.com/feed/"
+  ],
+  "Brazil": [
+    "http://rss.home.uol.com.br/index.xml",
+    "http://www.terra.com.br/rss/Controller?channelid=20e07ef2795b2310VgnVCM3000009af154d0RCRD&ctName=atomo-noticia",
+    "http://g1.globo.com/dynamo/rss2.xml",
+    "http://globoesporte.globo.com/ESP/Noticia/Rss/0,,AS0-4282,00.xml",
+    "http://ego.globo.com/noticias/rss.xml",
+    "http://feeds.folha.uol.com.br/poder/rss091.xml",
+    "http://esporte.uol.com.br/ultimas/index.xml",
+    "http://extra.globo.com/rss.xml",
+    "http://oglobo.globo.com/rss.xml",
+    "http://esportes.terra.com.br/rss/Controller?channelid=2d19f517cd779310VgnVCM5000009ccceb0aRCRD&ctName=atomo-noticia&lg=pt-br",
+    "http://revistaquem.globo.com/Revista/Quem/Rss/0,,EDT0-9531,00.xml",
+    "http://www.lancenet.com.br/rss/",
+    "http://issuesetc.org/feed/podcast/"
+  ],
+  "Brunei": ["http://www.bruneipress.com.bn/?feed=rss2"],
+  "Bulgaria": [
+    "http://dnes.dir.bg/support/cat_rss.php",
+    "http://www.dnes.bg/rss.php?today",
+    "http://dariknews.bg/rss.php",
+    "http://www.24chasa.bg/RSS.asp",
+    "http://www.dnevnik.bg/rss/",
+    "http://www.trud.bg/RSS.asp",
+    "http://news.ibox.bg/rss_1",
+    "http://www.fakti.org/rss.xml",
+    "http://www.focus-news.net/RSS/channel_0.xml",
+    "http://rss.actualno.com/2",
+    "http://gong.bg/rss.php"
+  ],
+  "Burkina Faso": [
+    "http://www.lefaso.net/spip.php?page=backend",
+    "http://www.oecd.org/fr/paysbas/index.xml",
+    "http://www.journaldujura.ch/taxonomy/term/70479/feed",
+    "http://www.fasozine.com/feed/"
+  ],
+  "Burma": [
+    "http://feeds.feedburner.com/thithtoolwin/yIWV",
+    "http://www.news-eleven.com/rss.xml",
+    "http://www.hrw.org/rss/taxonomy/135",
+    "http://vimeo.com/channels/205092/videos/rss"
+  ],
+  "Burundi": [
+    "http://www.iwacu-burundi.org/feed/",
+    "https://bujumburanews.wordpress.com/feed/",
+    "http://bonesha.bi/spip.php?page=backend",
+    "http://www.iwacu-burundi.org/tag/presidence/feed/"
+  ],
+  "Cambodia": [
+    "http://www.jmmsandbox.com/podcast/EverydayMoments.xml",
+    "http://www.khmer.rfi.fr/cambodia/rss",
+    "http://www.camnews.org/topics/cambodia-news/feed/",
+    "http://feeds.feedburner.com/proj-cam"
+  ],
+  "Cameroon": [
+    "https://mcmparis.wordpress.com/tag/cameroonvoice/feed/",
+    "http://cg.anuncioo.com/tags/annonces/soucous/rss",
+    "http://www.bonaberi.com/syndication/general.php?out=rss",
+    "http://allafrica.com/tools/headlines/rdf/cameroon/headlines.rdf",
+    "http://www.afrik.com/affiliation/backend-foot-pays34.html",
+    "http://www.africapresse.com/feed/",
+    "http://www.kongossa.fr/index.php/kongossa?format=feed&type=rss"
+  ],
+  "Canada": [
+    "http://www.cbc.ca/cmlink/rss-canada",
+    "http://rss.canoe.ca/Home/home.xml",
+    "http://www.theglobeandmail.com/?service=rss",
+    "http://www.afp.com/fr/info",
+    "http://www.thestar.com/feeds.topstories.full.rss",
+    "http://fr.canoe.ca/rss/feed/nouvelles/lcn.xml",
+    "http://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822284",
+    "http://feeds.feedburner.com/dankojonespodcast",
+    "http://argent.canoe.ca/news-feeds/rss/nouvelles",
+    "http://seattlesportsnet.com/tag/950-kjr/feed/",
+    "http://feeds2.feedburner.com/fluxdudevoir",
+    "http://shop.thechronicleherald.ca/rss.asp?type=onsale",
+    "http://www.cp24.com/rss/top-stories-1.1129631",
+    "http://www.hebdosregionaux.ca/lanaudiere/rss.xml",
+    "http://social.microsoft.com/Profile/u/activities/feed?displayName=journaliste%20au%20Qu%C3%A9bec%20pour%20le%20Journal%2CRadioTV",
+    "http://toronto.ctvnews.ca/rss/ctv-news-toronto-1.822319",
+    "http://rss.canoe.ca/Jam/Television/home.xml",
+    "http://www.tvasports.ca/sujet/joueurram/rss.xml",
+    "http://www.globalnews.ca/author/leigh-kjekstad/feed/"
+  ],
+  "Cape Verde": [
+    "http://videos.sapo.cv/asemana/rss",
+    "http://nacao.net/feed/",
+    "https://fiscocaboverde.wordpress.com/feed/"
+  ],
+  "Cayman Islands": [
+    "https://www.caymanislandsrealty.com/index.php?action=addon_blog_rss",
+    "http://www.cayman27.com.ky/feed"
+  ],
+  "Central African Republic": [
+    "http://www.radiondekeluka.org/index.php?format=feed&type=rss"
+  ],
+  "Chad": [
+    "http://www.afropages.fr/Journal-du-Tchad/feed/rss",
+    "http://tchadpages.com/tchad-les-partis-politiques-et-les-mouvements-dopposition-armes-de-1990-a-2012-nouveau-livre-du-dr-bichara-idriss-haggar/feed/"
+  ],
+  "Chile": [
+    "http://remates.latercera.com/?feed=rss2",
+    "http://feeds.feedburner.com/soychilecl-todas",
+    "http://www.vayatele.com/13998/rss2.xml",
+    "http://www.cooperativa.cl/noticias/site/edic/base/rss/_pod_diario.xml"
+  ],
+  "China": [
+    "http://tgideas.qq.com/?feed=rss2",
+    "http://rss.sina.com.cn/blog/food/ms.xml",
+    "http://xiaopi9981.blog.sohu.com/rss",
+    "http://news.ifeng.com/mil/rss/index.xml",
+    "http://www.xinhuanet.com/english/rss/worldrss.xml",
+    "http://english.people.com.cn/rss/World.xml",
+    "http://www.chinanews.com/rss/it.xml",
+    "http://news.hexun.com/rss/www_rss.xml",
+    "http://rss.huanqiu.com/china/roll.xml",
+    "http://feeds.qzone.qq.com/cgi-bin/cgi_rss_out?uin=397709406",
+    "http://world.cnr.cn/index_504031106.xml",
+    "http://furtherglory.wordpress.com/2014/08/27/the-nazis-were-green-when-being-green-wasnt-cool/feed/"
+  ],
+  "Colombia": [
+    "http://www.elcolombiano.com/rss/inicio.xml",
+    "http://www.elheraldo.co/rss.xml",
+    "http://www.futbolred.com/feeds/home",
+    "http://www.rcnradio.com/rss_audios",
+    "http://www.golcaracol.com/tags/james-rodriguez/feed"
+  ],
+  "Comoros": ["http://www.ortc.fr/index.php/t/94"],
+  "Cook Islands": [
+    "http://www.cookislandsnews.com/national/politics?format=feed",
+    "http://rss.nzherald.co.nz/rss/xml/nzhrsslocid_000000010.xml"
+  ],
+  "Costa Rica": [
+    "http://www.aldia.cr/rss/",
+    "http://everardoherrera.com/index.php?format=feed&type=rss",
+    "http://www.teletica.com/ResourcesManager.aspx?Resource=Rss.aspx&Rss=7&urlsection=true",
+    "http://www.elfinancierocr.com/rss/",
+    "https://www.larepublica.net/app/cms/www/rss/internacionales.xml",
+    "http://www.mariosegura.com/feed/",
+    "http://radios.en.cr/feed/",
+    "http://insidecostarica.net/feed/",
+    "http://www.elpais.cr/feed",
+    "http://www.radiocolumbia.nl/?feed=rss2&cat=1"
+  ],
+  "Croatia": [
+    "http://dobrahrana.jutarnji.hr/feed/",
+    "http://www.24sata.hr/feeds/news.xml",
+    "http://www.tportal.hr/rss/naslovnicarss.xml",
+    "http://rss.dnevnik.hr/index.rss",
+    "http://www.slobodnadalmacija.hr/RssPrilozi.aspx",
+    "http://www.hrt.hr/rss/vijesti/",
+    "http://www.yucafe.com/2014/12/19/milena-ceranic-2014-novi-list-promo/feed/",
+    "http://www.dnevno.hr/vijesti/rss",
+    "http://www.nezavisne.com/rss/"
+  ],
+  "Cuba": [
+    "http://en.cubadebate.cu/feed/",
+    "https://enmitrincheradelucha.wordpress.com/category/diario-granma/feed/",
+    "http://cubanoconfesante.com/?feed=rss2&tag=juventud-rebelde",
+    "http://www.cubanet.org/feed/",
+    "http://www.diariodecuba.com/rss.xml",
+    "http://www.martinoticias.com/podcast/video.aspx?count=20&zoneId=128",
+    "http://www.cubasi.cu/index.php?option=com_k2&view=itemlist&format=feed&type=rss&Itemid=17",
+    "http://www.laprensalatina.com/feed/"
+  ],
+  "Cyprus": [
+    "http://www.sigmalive.com/rss",
+    "http://feeds.feedburner.com/CyprusSports",
+    "http://www.typos.com.cy/rss",
+    "http://cyprus-mail.com/feed/",
+    "http://backend.deviantart.com/rss.xml?q=favby%3AMk513%2F60801150&type=deviation",
+    "http://www.showbizcy.com/rss/news.xml",
+    "https://www.offsitecomputerbackup.com/feed/",
+    "http://feeds.24.com/articles/Fin24/News/rss"
+  ],
+  "Czech Republic": [
+    "http://www.novinky.cz/rss/",
+    "http://www.super.cz/rss2/",
+    "http://www.sport.cz/rss2/",
+    "http://www.blesk.cz/rss/",
+    "http://zpravy.aktualne.cz/rss/",
+    "http://www.denik.cz/rss/sport.html",
+    "http://servis.lidovky.cz/rss.aspx?c=ln_lidovky",
+    "http://feeds.feedburner.com/penize?format=xml",
+    "http://ihned.cz/?p=000000_rss",
+    "http://www.kurzy.cz/zpravy/util/forext.dat?type=rss",
+    "http://www.ahaonline.cz/rss.php",
+    "http://www.showbiz.cz/feed/",
+    "http://pctuning.tyden.cz/index.php?option=com_bca-rss-syndicator&feed_id=3",
+    "http://vtm.e15.cz/rss/clanky"
+  ],
+  "Democratic Republic of the Congo": [
+    "http://pvsq.org/tag/congo-kinshasa/feed/",
+    "http://www.cdkeysdirect.com/ror.xml",
+    "http://www.starducongo.com/xml/",
+    "http://www.congopage.com/backend.php",
+    "http://www.congoplanet.com/feeds/rss_congo_africa.xml",
+    "http://www.lesoftonline.net/taxonomy/term/1/all/feed"
+  ],
+  "Denmark": [
+    "http://ekstrabladet.dk/rssfeed/all/",
+    "http://www.bt.dk/bt/seneste/rss",
+    "http://pmunk.wordpress.com/2006/09/27/erhverv-pa-nettet-epndk-ny-satsning-fra-jyllands-posten/feed/",
+    "http://www.b.dk/seneste/rss",
+    "http://www.radicalphilosophy.com/tag/jyllands-posten/feed",
+    "http://www.nordjyske.dk/RSS/forside",
+    "http://borsen.dk/rss/"
+  ],
+  "Djibouti": [
+    "http://www.nacion.com/rss/",
+    "http://scholarsink.wordpress.com/feed/"
+  ],
+  "Dominica": [
+    "http://www.thedominican.net/dominicanews.xml",
+    "http://news.dbcradio.net/feed/",
+    "http://www.vidadominicana.com/index.php?format=feed&type=rss"
+  ],
+  "Dominican Republic": [
+    "http://remolacha.net/feed/",
+    "http://almomento.net/feed/",
+    "http://www.gentetuya.com/feed/",
+    "http://www.7dias.com.do/rss/economia/",
+    "http://feeds.feedburner.com/siglo21"
+  ],
+  "East Timor": ["http://timordigital.com/feed.php"],
+  "Ecuador": [
+    "http://www.elcomercio.com/rss/",
+    "http://www.futbolecuador.com/stories/rss/",
+    "http://www.teleamazonas.com/?format=feed&type=rss",
+    "http://feeds.feedburner.com/eltiempoec",
+    "http://www.ecuadorenvivo.com/?format=feed&type=rss",
+    "http://www.teradeportes.com/rss.xml",
+    "http://www.larepublica.ec/feed/",
+    "https://futbolecuatoriano2.wordpress.com/feed/"
+  ],
+  "Egypt": [
+    "http://feeds.feedburner.com/JustesPourFemmes",
+    "http://www.shorouknews.com/columns/rss/",
+    "http://www.arabwestreport.info/taxonomy/term/10896/feed",
+    "http://feeds.feedburner.com/MusicSection",
+    "http://www.elwatannews.com/home/rssfeeds?sectionId=+12",
+    "http://www.yallakora.com/arabic/rss.aspx?id=5&Region=",
+    "http://moheet.com/rss/%d9%88%d8%b8%d8%a7%d8%a6%d9%81",
+    "http://www.fifplay.com/pes2015-wishlist/feed/"
+  ],
+  "El Salvador": [
+    "http://www.contrapunto.com.sv/?option=com_jcomments&task=rss&object_id=2035&object_group=com_content",
+    "http://www.salvatruchos.com/tv/8-noticias?format=feed&type=rss"
+  ],
+  "Equatorial Guinea": [
+    "http://lagaceta.com.uy/tag/papua-nueva-guinea/feed/",
+    "http://lagacetanewspaper.com/feed/",
+    "http://www.garotasestupidas.com/tvge-vlog-minha-participacao-no-clipe-lips-are-movin-meghan-trainor/feed/"
+  ],
+  "Eritrea": [
+    "http://assenna.com/feed/",
+    "http://asmarino.com/?format=feed&type=rss",
+    "http://awate.com/feed/",
+    "http://assenna.com/voice-of-assenna-assenna-new-year-message-2015-should-be-the-year-for-change-in-eritrea-mon-dec-29-2014/feed/",
+    "http://martinplaut.wordpress.com/comments/feed/",
+    "http://www.alenalki.com/index.php?format=feed&type=rss",
+    "http://hornofafrica.de/tag/trafficking/feed/",
+    "http://www.eritrea-chat.com/search/eritrea+news+paper/feed/rss2/",
+    "http://tigrigna.voanews.com/podcast/?count=50&zoneId=3315",
+    "http://www.shabait.com/haddas-ertra?format=feed&type=rss",
+    "http://feeds.bbci.co.uk/news/world/africa/rss.xml",
+    "http://feeds.feedburner.com/Eastafrocom"
+  ],
+  "Estonia": [
+    "https://smslaen.delfi.ee/rss/",
+    "http://www.postimees.ee/rss/",
+    "http://elu24.postimees.ee/rss/",
+    "http://iseseisvuspartei.ee/feed/",
+    "http://tartu.postimees.ee/rss/",
+    "http://www.parnupostimees.ee/rss/",
+    "http://ttolk.ru/?p=16528&feed=rss2",
+    "http://www.virumaateataja.ee/rss/",
+    "http://www.reporter.ee/feed/"
+  ],
+  "Ethiopia": [
+    "http://ethsat.com/feed/",
+    "http://amharic.voanews.com/podcast/",
+    "http://www.ethiopianreview.com/feed",
+    "http://feeds.feedburner.com/ecadforum/HvBQ",
+    "http://www.zehabesha.com/http:/www.zehabesha.com/topics/uncategorized/video/feed/",
+    "http://www.ethiopianreview.com/amharic/?feed=rss2&p=9691",
+    "http://www.awrambatimes.com/?feed=rss2",
+    "http://quatero.net/archives/category/interviews/feed",
+    "http://www.waltainfo.com/index.php?format=feed&type=rss",
+    "http://www.tadias.com/tag/ethiopia/feed/"
+  ],
+  "Faroe Islands": [
+    "http://generationawakening.wordpress.com/feed/",
+    "http://maps.sportal.bg/?feed=rss2",
+    "http://kvf.fo/podcast/15196/feed.xml",
+    "http://www.npr.org/rss/podcast.php?id=510289",
+    "http://danskemedier.dk/nyhed/faeroernes-aeldste-avis-dimmalaetting-begaeret-konkurs/feed/",
+    "http://www.mest.fo/?q=rss.xml"
+  ],
+  "Fiji": [
+    "https://finsec.wordpress.com/2006/10/18/anz-fiji-restructure-could-lead-to-strike/feed/",
+    "http://fijilive.com/rss/businesnews-rss.xml",
+    "http://www.thedrum.com/tags/95460/rss.xml",
+    "http://www.pmc.aut.ac.nz/feeds/pmw_article/rss.xml",
+    "http://thejetnewspaper.com/feed/",
+    "http://crosbiew.blogspot.com/feeds/posts/default"
+  ],
+  "Finland": [
+    "http://www.iltasanomat.fi/rss/uutiset.xml",
+    "http://www.iltalehti.fi/rss/uutiset.xml",
+    "http://yle.fi/uutiset/rss/uutiset.rss?osasto=news",
+    "http://www.hs.fi/uutiset/rss/",
+    "http://www.taloussanomat.fi/rss/uutiset",
+    "http://www.medievarlden.se/taggar/keskisuomalainen/feed",
+    "http://www.kaleva.fi/rss/show/?channels=1",
+    "http://www.ts.fi/rss.xml",
+    "http://www.stara.fi/kilpailut/ystavanpaiva/feed/",
+    "http://www.talouselama.fi/rss.xml"
+  ],
+  "France": [
+    "http://rss.lefigaro.fr/lefigaro/laune",
+    "http://www.leparisien.fr/faits-divers/rss.xml",
+    "http://tempsreel.nouvelobs.com/rss.xml",
+    "http://www.ouest-france.fr/rss.xml",
+    "http://www.lepoint.fr/rss.xml",
+    "http://www.francetv.fr/rss.xml",
+    "http://www.eurosport.fr/formule-1/rss_tea2973.xml",
+    "http://lifestyle.boursorama.com/rss",
+    "http://www.europe1.fr/var/export/rss/europe1/actus.xml"
+  ],
+  "French Guiana": [
+    "http://www.blada.com/rss.xml",
+    "http://guyane.la1ere.fr/actu/rss",
+    "http://www.guyaweb.com/flux-agenda/"
+  ],
+  "French Polynesia": [
+    "http://polynesie.la1ere.fr/meteo/rss",
+    "http://www.tahiti-infos.com/xml/syndication.rss",
+    "http://blog.tahiti.com/2012/05/31/130th-heiva-i-tahiti/feed/",
+    "https://tahitinews.co/feed/",
+    "http://www.tntv.pf/xml/syndication.rss?t=f%C3%AAtez+le+r%C3%A9veillon+de+la+st+sylvestre+sur+tntv"
+  ],
+  "Gabon": [
+    "http://times24.info/tag/gabon-review/feed/",
+    "http://fr.infosgabon.com/feed/"
+  ],
+  "Gambia": ["http://thepoint.gm/posts/rss/xml"],
+  "Georgia": [
+    "http://www.presa.ge/rss2_1.php",
+    "http://tvonlineapp.com/?feed=rss2&p=34870",
+    "http://www.prodeoetpatria.lt/index.php/tevyne/ivairus-straipsniai-uz-tevyne?format=feed&type=rss",
+    "http://www.droni.ge/rss2.xml",
+    "http://www.itv.ge/rss2.xml",
+    "http://babajana.com/rss.xml",
+    "http://news.ge/ge/rss",
+    "http://jobs.gecareers.com/ge.xml",
+    "http://avrupa.info.tr/tr/ab-ve-turkiye/9-mayis-2012/9-mayis-avrupa-guenue-senligi/rss.xml"
+  ],
+  "Germany": [
+    "http://www.spiegel.de/international/index.rss",
+    "http://www.welt.de/?service=Rss",
+    "http://www.focus.de/?view=rss",
+    "http://rss.sueddeutsche.de/rss/Wirtschaft",
+    "http://www.stern.de/feed/standard/all/",
+    "http://newsfeed.zeit.de/index",
+    "http://rss.kicker.de/news/fussball",
+    "http://www.faz.net/rss/aktuell/",
+    "http://www.abendblatt.de/?service=Rss",
+    "http://www.tagesschau.de/xml/rss2",
+    "http://www.sportschau.de/sendung/sportschausendungindex100.feed",
+    "http://www.ndr.de/podcast/podcast2956.xml",
+    "http://www.handelsblatt.com/contentexport/feed/schlagzeilen"
+  ],
+  "Ghana": [
+    "http://www.myjoyonline.com/pages/rss/site_lifestyle.xml",
+    "http://mg.co.za/feeds/rss_sport.aspx",
+    "http://www.dailyguideghana.com/feed/",
+    "http://www.ghanamma.com/category/business/feed/",
+    "http://www.chronicle.co.zw/feed/",
+    "http://feeds.feedburner.com/Ghanacelebritiescom",
+    "https://govco.wordpress.com/tag/the-ghanaian-times/feed/",
+    "http://newhealthvisions.com/feed",
+    "http://www.facenfacts.com/RSS-FEED/22/"
+  ],
+  "Gibraltar": [
+    "https://www.vox.com/rss/index.xml",
+    "http://ikedagakuen.chesuto.jp/index_c24943.xml",
+    "http://www.gibraltarchamberofcommerce.com/news-publications/b2b-magazine/feed/"
+  ],
+  "Greece": [
+    "http://rss.in.gr/Netvolution.Site.Engine.PageHandler.axd?rid=2&pid=250&la=1&si=1",
+    "http://feeds.feedburner.com/newsbombgr",
+    "http://www.newsit.gr/rss/artrss.php",
+    "http://www.protothema.gr/rss/news/general/",
+    "http://news247.gr/?widget=rssfeed&view=feed&contentId=38291",
+    "http://www.mykefalonia.com/index.php?option=com_k2&view=itemlist&task=date&year=2013&month=1&day=12&Itemid=370&format=feed",
+    "http://www.tanea.gr/rss.axd?pgid=1",
+    "http://www.tovima.gr/feed/politics/",
+    "http://www.fimes.gr/feed/",
+    "http://www.megatv.com/rss.asp?catid=13480&subid=20120"
+  ],
+  "Grenada": [
+    "http://www.spicegrenada.com/budget-2015-a-review/feed/",
+    "http://www.barnaclepress.com/feed/"
+  ],
+  "Guadeloupe": [
+    "http://guadeloupe.la1ere.fr/actu/rss",
+    "http://www.domactu.com/rss/actu/guadeloupe/",
+    "http://lafamillecallue-auxantilles.over-blog.com/rss"
+  ],
+  "Guam": [
+    "http://www.dailydispatch.com/RSS/GU_DispatchNews.rss",
+    "http://www.kuam.com/Global/category.asp?C=164100&clienttype=rss"
+  ],
+  "Guatemala": [
+    "http://blogs.elperiodico.com/defensora/ultimosarticulosdelblog/secuencias-para-un-final-feliz/attachment/marcha-en-guatemala-contra-la-violencia-machista/feed/",
+    "http://www.guatefutbol.com/index.php?format=feed&type=rss",
+    "https://fullmarquense.wordpress.com/comments/feed/",
+    "http://www.plazapublica.com.gt/rss"
+  ],
+  "Guernsey": ["http://feeds.feedburner.com/guernsey-news"],
+  "Guinea": [
+    "http://guineenews.org/feed/",
+    "http://www.guinee24.com/feed.xml",
+    "http://www.guineeconakry.info/feed.xml",
+    "http://www.radiotopafrica.com/index.php/show/itemlist/user/460-gls?format=feed"
+  ],
+  "Guinea-Bissau": ["http://www.gbissau.com/?feed=rss2"],
+  "Guyana": [
+    "http://www.kaieteurnewsonline.com/feed/",
+    "http://guyanachronicle.com/feed/",
+    "https://guyaneseonline.wordpress.com/tag/prime-minister-samuel-hinds/feed/",
+    "http://capitolnewsgy.com/feed/"
+  ],
+  "Haiti": [
+    "http://www.radiotelevisioncaraibes.com/rtvcpodcast/feed.xml",
+    "http://www.haitilibre.com/rss-flash-en.xml",
+    "http://www.alterpresse.org/spip.php?page=backend"
+  ],
+  "Honduras": [
+    "http://bertrandspecial.webnode.es/rss/cine-y-espectaculos.xml",
+    "http://www.canal6.com.hn/etiqueta/muerte/feed",
+    "http://ceellibertadorcurillocaqueta.wordpress.com/feed/"
+  ],
+  "Hong Kong": [
+    "http://feeds2.feedburner.com/MarksDailyApple/",
+    "http://feeds.feedburner.com/123greetings-daily-rss",
+    "http://the-sun.on.cc/rss/adult.xml",
+    "http://feeds.feedburner.com/myphotographyblog",
+    "http://english.sina.com/rss/scroll.xml",
+    "http://www.wiba.com/podcast/moneyinmotion.xml",
+    "http://www.singtao.tv/main/category/videoshare/axiatacup/feed/",
+    "http://finance.now.com/rss/",
+    "http://startupbeat.hkej.com/?feed=rss2",
+    "http://www.livetvscreen.com/i-cable-news-channel/feed/",
+    "http://am730.com.br/feed/"
+  ],
+  "Hungary": [
+    "http://index.hu/24ora/rss",
+    "http://www.hir24.hu/?action=rss",
+    "http://hvg.hu/rss",
+    "http://velvet.hu/24ora/rss/",
+    "http://sportgeza.hu/24ora/rss/",
+    "http://nol.hu/feed/osszes.rss",
+    "http://www.atv.hu/rss/1",
+    "http://www.napi.hu/feed/magyar_gazdasag.xml",
+    "http://www.storyonline.hu/rss/",
+    "http://nepszava.hu/rss/"
+  ],
+  "Iceland": [
+    "http://www.mbl.is/mbl-frettir-forsida",
+    "http://www.visir.is/apps/pbcs.dll/section?Category=FRETTIR&Template=rss&mime=xml",
+    "http://www.dv.is/straumur/",
+    "http://www.ruv.is/rss/frettir",
+    "http://www.vf.sk/rss.php?lg=en",
+    "http://www.bb.is/?PageID=121",
+    "http://reclaimlss.org/2011/05/vara-lagar-ger-personer-med-funktionshinder-bra-stod-2/feed/",
+    "http://travels.kilroy.is/frettir/rss",
+    "http://www.feykir.is/feed"
+  ],
+  "India": [
+    "http://www.rediff.com/rss/inrss.xml",
+    "http://timesofindia.indiatimes.com/rssfeedsdefault.cms",
+    "http://www.in.com/rss/news/tv-",
+    "http://www.moneycontrol.com/rss/latestnews.xml",
+    "http://sports.ndtv.com/?format=feed",
+    "http://economictimes.indiatimes.com/rssfeedsdefault.cms",
+    "http://www.india.com/feed/",
+    "http://zeenews.india.com/rss/india-national-news.xml",
+    "http://www.thehindu.com/news/?service=rss",
+    "http://indiatoday.intoday.in/rss/article.jsp?sid=214",
+    "http://rss.jagran.com/local/uttar-pradesh/lucknow-city.xml",
+    "http://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
+  ],
+  "Indonesia": [
+    "http://rss.detik.com/",
+    "https://id.berita.yahoo.com/rss/teknologi",
+    "http://www.tribunnews.com/rss",
+    "http://syaifuddin.wordpress.com/tag/kompasiana/feed/",
+    "http://sindikasi.okezone.com/index.php/rss/0/RSS2.0",
+    "http://feeds.feedburner.com/InilahKehidupan",
+    "http://sidomi.com/feed/",
+    "http://www.merdeka.com/feed/"
+  ],
+  "Iran": [
+    "http://www.tabnak.ir/fa/rss/allnews",
+    "http://www.varzesh3.com/rss/",
+    "http://english.khabaronline.ir/rss/",
+    "http://www.radiofarda.com/api/",
+    "http://www.mehrnews.com/rss",
+    "http://ir.voanews.com/api/zkup_empmy",
+    "http://www.hamshahrionline.ir/rss",
+    "http://isna.ir/en/all/feed",
+    "http://www.asriran.com/fa/rss/allnews"
+  ],
+  "Iraq": [
+    "http://www.ahewar.org/rss/default.asp?lt=7",
+    "http://ahmadshabani.blogfa.com/rss.aspx",
+    "http://kurdistantribune.com/2014/political-propaganda-name-of-journalism-rsf-report-on-rojava/feed/"
+  ],
+  "Ireland": [
+    "http://www.rte.ie/radio1/podcast/podcast_playback.xml",
+    "http://www.independent.ie/irish-news/rss",
+    "http://www.thejournal.ie/feed/",
+    "http://feeds.breakingnews.ie/bnireland?format=xml",
+    "http://www.herald.ie/rss",
+    "http://www.irishcentral.com/templates/section_feed_content_abstract.rss?section=/news/politics",
+    "http://www.politics.ie/external.php?type=RSS2",
+    "http://www.donegaldaily.com/feed/",
+    "http://www.advertiser.ie/galway/rssfeed",
+    "http://www.highlandradio.com/feed/",
+    "http://www.theanswerbank.co.uk/Quizzes-and-Puzzles/Crosswords/Question1388968.rss",
+    "http://sportsnewsireland.com/feed/"
+  ],
+  "Isle of Man": ["http://www.three.fm/news/isle-of-man-news/feed.xml"],
+  "Israel": [
+    "http://rss.walla.co.il/?w=/3/7/1/@rss",
+    "http://www.ynet.co.il/Integration/StoryRss3082.xml",
+    "http://rcs.mako.co.il/rss/MainSliderRss.xml",
+    "http://rss.nana10.co.il/?s=34",
+    "http://rss.yeniprogram.gen.tr/rss/9/m/m3/8283/Max-Movie-Maker.xml",
+    "http://rss.nrg.co.il/news/",
+    "http://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585",
+    "http://www.calcalist.co.il/StandAloneIntegrations/photoArticlesRss/0,,L-4389,00.xml",
+    "http://www.one.co.il/RSS/Winner",
+    "http://cursorinfo.co.il/rss/index.rss",
+    "http://channel9.msdn.com/Feeds/RSS/",
+    "http://mignews.com.ua/rss.xml",
+    "http://downloads.bbc.co.uk/podcasts/5live/5lspecials/rss.xml",
+    "http://www.haaretz.com/cmlink/haaretz-com-books-1.376211",
+    "http://www.jpost.com/RSS/RssFeedsFrontPage.aspx"
+  ],
+  "Italy": [
+    "http://www.corriere.it/rss/homepage.xml",
+    "http://www.repubblica.it/rss/homepage/rss2.0.xml",
+    "http://www.affaritaliani.it/static/rss/rssGadget.aspx?idchannel=3",
+    "http://www.ansa.it/english/english_rss.xml",
+    "http://www.radio.rai.it/radio1/podcast/podcast.cfm",
+    "http://www.lastampa.it/rss.xml",
+    "http://www.tgcom24.mediaset.it/rss/homepage.xml",
+    "http://www.leonardo.it/feed",
+    "http://www.ilmessaggero.it/rss/home.xml",
+    "http://www.corrieredellosport.it/rss/Altri-Sport-2.xml",
+    "http://www.ilgiornale.it/taxonomy/term/40822/feed",
+    "http://www.fanpage.it/feed/"
+  ],
+  "Jamaica": [
+    "http://jamaica-gleaner.com/feed/rss.xml",
+    "http://jamaica-star.com/feed/news.xml",
+    "http://go-jamaica.com/pressrelease/feed/pressfeed.xml",
+    "http://wondersofjamaica.com/tag/tvj/feed/",
+    "http://rjrnewsonline.com/feed/business",
+    "https://cvminc.wordpress.com/feed/",
+    "http://www.eradioportal.com/search/love%20radio%20manila/feed/rss2/",
+    "http://www.876news.com/?format=feed"
+  ],
+  "Japan": [
+    "http://www.nhk.or.jp/rj/podcast/rss/english.xml",
+    "http://www.fcabaseball.org/Rss.aspx?ContentID=2374955",
+    "http://www.dailymail.co.uk/sport/index.rss",
+    "http://www.asahi.com/ad/clients/iryo/index.xml",
+    "http://jijicom-new.cocolog-nifty.com/blog/index.rdf",
+    "http://www.nikkansports.com/soccer/atom.xml",
+    "http://mainichi.jp/rss/etc/mainichi.rss",
+    "http://news.livedoor.com/topics/rss/int.xml",
+    "http://diamond.jp/list/rss?cc=s-taokastrategy"
+  ],
+  "Jersey": ["http://feeds.thesailingchannel.tv/TheSailingChannel"],
+  "Jordan": [
+    "http://www.khaberni.com/rss/rss.xml",
+    "http://www.dooopy.com/video/rss.php",
+    "http://alweehdat.net/vb/external.php?type=html",
+    "http://www.jordanzad.com/rss.php?type=main",
+    "http://www.assabeel.net/culture?format=feed",
+    "http://shatharat.net/vb/external.php?type=RSS2",
+    "http://www.shatharat.net/vb/external.php?type=rss2&forumids=105"
+  ],
+  "Kazakhstan": [
+    "http://tengrinews.kz/news.rss",
+    "http://rapradar.com/tag/az/feed/",
+    "http://www.ktk.kz/kz/rss/",
+    "http://www.gazeta.kz/rss/rss.xml",
+    "http://www.khabar.kz/kz/agency/zekti?format=feed",
+    "http://www.kt.kz/kaz/rss/"
+  ],
+  "Kenya": [
+    "http://www.nation.co.ke/-/1148/1148/-/view/asFeed/-/vtvnjq/-/index.xml",
+    "http://www.standardmedia.co.ke/rss/business.php",
+    "http://www.businessdailyafrica.com/-/539444/539444/-/view/asFeed/-/xs2vhb/-/index.xml",
+    "http://www.standardmedia.co.ke/rss/ktnvideos.php",
+    "http://www.theeastafrican.co.ke/-/2456/2456/-/view/asFeed/-/13blr5d/-/index.xml",
+    "http://nairobiwire.com/feed",
+    "http://www.openbook.gr/rss.xml",
+    "http://feeds.news24.com/articles/kenya/business/news/rss",
+    "http://ismailimail.wordpress.com/2011/10/07/aga-khan-hospital-breast-cancer-awareness-charity-walk-coastweek-com/feed/"
+  ],
+  "Kosovo": [
+    "http://inthenews.unfpa.org/?feed=rss2",
+    "https://zeri.info/rss/zerat",
+    "http://www.worldreview.info/de/taxonomy/term/864/all/feed",
+    "http://www.flashdz.com/?feed=rss2",
+    "http://www.evropaelire.org/api/ayiiyqveqjiyqv",
+    "http://shop.presheva.com/?feed=rss2&ad_tag=381637438754",
+    "http://www.lajmpress.com/feed"
+  ],
+  "Kuwait": [
+    "http://arabjobsgate.blogspot.com/feeds/posts/default",
+    "http://www.bahrain.parsiblog.com/RSS.aspx",
+    "http://www.menafn.com/rss/menafn_menatopstories.xml",
+    "http://www.rosenblumtv.com/tag/an-nahar/feed/",
+    "http://www.zemtv.com/2014/12/28/agenda-360-fuji-adalaaten-jamhoriyat-bachane-ke-liye-hongi-parvez-rashid-28th-december-2014/feed/",
+    "http://thewasat.wordpress.com/feed/",
+    "http://improkul.impr.org.tr/?feed=rss2&cat=27",
+    "http://www.beyaz.org/tag/al-khaleej-u20/feed/"
+  ],
+  "Kyrgyzstan": [
+    "http://www.akipress.com/rss/en.rss",
+    "http://www.tazabek.kg/rss/news.rss",
+    "http://svodka.net/index.php?option=com_rd_rss&id=1&feed=yandex",
+    "http://uz.ca-news.org/rss/main.rss",
+    "http://www.knews.kg/pro_dengi/rss/",
+    "http://www.vesti.kg/index.php?option=com_k2&view=itemlist&format=feed"
+  ],
+  "Laos": [
+    "http://world.time.com/category/asia/laos/feed/",
+    "http://www.vietnambreakingnews.com/tag/nguyen-khai-anh-and-bui-tien-huy/feed/",
+    "http://feeds.feedburner.com/LaoVoices"
+  ],
+  "Latvia": [
+    "http://www.delfi.lv/rss.php",
+    "http://www.sysarchitects.com/node/feed",
+    "http://sportacentrs.com/static/non-publish/rss/sc/sporta_avize_intervijas/video/rss_top.xml",
+    "http://www.gorod.lv/rss-news.php",
+    "http://feeds.feedburner.com/kazantiplv",
+    "http://www.grani.lv/accidents/rss.xml",
+    "http://www.irmagazine.com/articles/ir-websites/feed/"
+  ],
+  "Lebanon": [
+    "https://alexsalon.wordpress.com/feed/",
+    "http://feeds.feedburner.com/Nownejm",
+    "http://app.feed.informer.com/digest3/SNABYRHULB.rss",
+    "http://freetalnow.blogspot.com/feeds/posts/default?alt=rss"
+  ],
+  "Lesotho": [
+    "http://lestimes.com/feed/",
+    "http://iesc.org/Blog/RSS.aspx?p=15~23~17&r=98355aa3-1d8d-4a63-a6cb-ecddc1a6eb79",
+    "http://sundayexpress.co.ls/category/news/feed/",
+    "http://feeds.feedburner.com/InformativeAndEnlightening"
+  ],
+  "Liberia": [
+    "http://www.frontpageafricaonline.com/index.php?format=feed&type=rss",
+    "http://www.gameinformer.com/rss.aspx",
+    "http://www.thenewdawnliberia.com/index.php?option=com_content&view=section&id=1&layout=blog&Itemid=54&type=rss&format=feed",
+    "http://www.newrepublic.com/rss.xml",
+    "http://www.tcdailyplanet.net/partners/25821/feed"
+  ],
+  "Libya": [
+    "http://www.presssolidarity.net/news/ONERSS/45/",
+    "http://www.brnieq.com/news/feed/",
+    "http://www.lana-news.ly/eng/news/index.rss",
+    "http://www.legalisation.fr/spip.php?page=backend",
+    "http://www.tripolipost.com/rss.xml",
+    "http://tvonlineapp.com/?feed=rss2&p=25424"
+  ],
+  "Liechtenstein": [
+    "http://www.continental-corporation.com/www/presseportal_com_de/themen/pressemitteilungen/?view=asRSS",
+    "http://www.martha.li/author/admin/feed",
+    "http://www.zeitung.ch/taxonomy/term/23/feed",
+    "http://www.biojournals.com/bjr.xml"
+  ],
+  "Lithuania": [
+    "http://www.delfi.lt/rss/feeds/lithuania.xml",
+    "http://www.lrytas.lt/rss/",
+    "http://www.15min.lt/rss",
+    "http://limarev.wordpress.com/feed/",
+    "http://vz.lt/RSS.aspx",
+    "http://www.estar.eu/feed/",
+    "http://www.sabelija.lt/lt/pradzia/itemlist/category/22-apie-mus?format=feed",
+    "http://www.sekunde.lt/feed/",
+    "http://www.culturescope.nl/index.php?option=com_content&view=category&id=200&Itemid=41&format=feed&type=rss"
+  ],
+  "Luxembourg": ["http://rtl.lu/rss/headlines/"],
+  "Macau": [
+    "https://www.watchinga.com/pages/macao-123267.rss",
+    "http://www.macaunews.com.mo/index.php?option=com_rd_rss&id=6",
+    "http://hojemacau.com.mo/?feed=rss2",
+    "http://macaubusinessdaily.com/rss.xml"
+  ],
+  "Macedonia": [
+    "http://www.kurir.mk/sport/rakomet?format=feed&type=rss",
+    "http://www.idividi.com.mk/rss.aspx",
+    "http://www.vest.com.mk/rssGenerator/",
+    "http://kajgana.com/rss.xml",
+    "http://forum.crnobelo.com/forums/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%98%D0%B0.68/index.rss",
+    "http://feeds.feedburner.com/GPlusInfo",
+    "http://www.telegraf.rs/vesti/737081-bankrotirala-aviokompanija-sky-airlines/feed",
+    "http://www.mkd.mk/feed",
+    "http://www.alfatelevision.org/feed/",
+    "http://news.makedonias.gr/89309/erevna-daily-mail-to-chirotero-protathlima-ston-kosmo-ine-i-superleague/feed/"
+  ],
+  "Madagascar": [
+    "http://www.moov.mg/photos.rss",
+    "http://feeds.feedburner.com/MadagascarTribune/ANN",
+    "http://www.madagascar-tribune.com/spip.php?page=backend",
+    "http://www.newsmada.com/rubriques/actualites/feed/",
+    "http://feeds.feedburner.com/GazetteDeLabsinthe",
+    "http://www.madagate.com/index.php?format=feed&type=rss",
+    "http://usznikek.blog.hu/rss"
+  ],
+  "Malawi": [
+    "http://nfctimes.com/taxonomy/term/3083/function.session-start/feed",
+    "http://ucrtoday.ucr.edu/tag/malawi/feed"
+  ],
+  "Malaysia": [
+    "http://www.thestar.com.my/RSS/News/Nation/",
+    "http://www.hmetro.com.my/utama.xml",
+    "http://www.malaysia-today.net/feed/",
+    "http://www.bharian.com.my/terkini.xml",
+    "http://edge.org/?q=rss.xml",
+    "http://thebusinesstimes.com/feed/"
+  ],
+  "Maldives": [
+    "http://sun.mv/feed/",
+    "http://techmikal.com/category/news/feed/",
+    "http://mdv.postcodebase.com/taxonomy/term/818/feed"
+  ],
+  "Mali": [
+    "http://www.journaldumali.com/rss/",
+    "http://news.abamako.com/xml/all.xml",
+    "http://communautes-et-internet1.overblog.com/rss"
+  ],
+  "Malta": [
+    "http://www.timesofmalta.com/rss",
+    "http://www.maltatoday.com.mt/rss/",
+    "http://feed.gozonews.com/GozoNews"
+  ],
+  "Marshall Islands": ["https://freermi.wordpress.com/feed/"],
+  "Martinique": [
+    "http://martinique.la1ere.fr/actu/rss",
+    "http://www.martinique.franceantilles.fr/rss/lea_Une.xml",
+    "http://www.domactu.com/rss/actu/martinique/",
+    "http://politiques-publiques.com/martinique/feed/"
+  ],
+  "Mauritania": [
+    "http://www.saharamedias.net/xml/syndication.rss",
+    "http://ani.mr/?q=taxonomy/term/2/feed",
+    "http://www.noorinfo.com/xml/syndication.rss?t=s%C3%A9n%C3%A9gal",
+    "http://www.islam.ru/en/taxonomy/term/3288/0/feed",
+    "http://essahraa.net/rss.xml"
+  ],
+  "Mauritius": [
+    "http://www.defimedia.info/?format=feed&type=rss",
+    "http://www.lemauricien.com/rss/articles/all",
+    "http://radioplus.defimedia.info/grille.feed",
+    "http://business.mega.mu/latest/feed/"
+  ],
+  "Mayotte": [
+    "http://mayotte.la1ere.fr/sport/rss",
+    "http://mayotte.la1ere.fr/medias/rss",
+    "http://feeds.feedburner.com/orange-mayotte"
+  ],
+  "Mexico": [
+    "http://blogs.mediotiempo.com/fut-al-horno/feed/",
+    "http://feedsyn.univision.com/noticias",
+    "http://www.excelsior.com.mx/ultima-hora.xml",
+    "http://www.proceso.com.mx/?feed=rss2&cat=23",
+    "http://feeds.feedburner.com/SDPnoticiascom",
+    "http://noticias.terra.com.mx/rss/Controller?channelid=9c8ee078d3d13310VgnVCM3000009af154d0RCRD&ctName=atomo-noticia&lg=es-mx"
+  ],
+  "Moldova": [
+    "http://point.md/ru/rss/novosti/",
+    "http://stelapopa.unimedia.md/feed/",
+    "http://womensjournalmd.com/feed/",
+    "http://325.nostate.net/?feed=rss2&tag=komsomolskaya-pravda",
+    "http://www.timpul.md/rss",
+    "http://www.noi.md/ru/feed",
+    "https://avamd.wordpress.com/feed/",
+    "http://feeds.feedburner.com/Terravideos",
+    "http://apropomagazin.md/feed/",
+    "http://omg.md/engine/rss.php"
+  ],
+  "Monaco": [
+    "http://www.monte-carlo.mc/rss/xml/rss_gb.xml",
+    "http://www.mysterymind.net/mysterymind/feed",
+    "http://www.montecarlonews.it/links/rss/argomenti/matrimonio-del-principe/rss.xml"
+  ],
+  "Mongolia": [
+    "http://miss.mn/tag/%d1%85%d2%af%d0%b9%d1%81%d1%8d%d1%8d-%d1%81%d0%be%d0%bb%d0%b8%d1%83%d0%bb%d1%81%d0%b0%d0%bd/feed",
+    "http://dmowiki.com/index.php?title=Mikemon&feed=atom&action=history",
+    "http://www.bolod.mn/feed.php",
+    "http://www.fact.mn/feed",
+    "http://www.cekc.mn/2014/12/%d0%bc%d0%be%d0%bd%d0%b3%d0%be%d0%bb-%d0%bc%d0%b8%d1%81%d1%81%d2%af%d2%af%d0%b4%d0%b8%d0%b9%d0%bd-%d0%b0%d0%bd%d0%b3%d0%bb%d0%b8-%d1%85%d1%8d%d0%bb%d0%bd%d0%b8%d0%b9-%d1%87%d0%b0%d0%b4%d0%b2%d0%b0/feed/"
+  ],
+  "Montenegro": [
+    "http://www.pobjeda.me/mobilefeed/",
+    "http://www.agriya-analitika.com/feed/",
+    "http://petr.vaclavek.com/?rss=1",
+    "http://www.rtcg.nl/rss.xml"
+  ],
+  "Morocco": [
+    "http://www.hespress.com/feed/index.rss",
+    "http://www.menara41.com/go/feed/",
+    "http://www.yabiladi.com/rss/?url=rubrik/",
+    "http://aimerlavie.co/feed/",
+    "http://www.bladi.net/site.php?page=backend",
+    "http://www.assabahnews.tn/rss.xml",
+    "http://www.lanouvelletribune.info/index.php?format=feed&type=rss",
+    "http://www.elbotola.com/feeds/",
+    "http://hihi2.com/feed"
+  ],
+  "Mozambique": [
+    "http://www.verdade.co.mz/index.php?option=com_mediarss&feed_id=1&format=raw",
+    "http://www.sanesul.ms.gov.br/RSS.aspx",
+    "http://www.savana.co.mz/index.php?format=feed&type=rss"
+  ],
+  "Namibia": ["http://feeds.nbcnews.com/feeds/topstories"],
+  "Nepal": [
+    "http://newsinnepal.wordpress.com/feed/",
+    "http://www.nagariknews.com/index.php?format=feed&type=rss",
+    "http://www.onlinekhabar.com/feed/",
+    "http://www.usnepalnews.com/comments/feed",
+    "http://en.mysansar.com/?feed=rss2",
+    "https://visitskc.wordpress.com/feed/",
+    "http://thehimalayantimes.com/rss_check.php"
+  ],
+  "Netherlands": [
+    "http://www.nu.nl/feeds/rss/algemeen.rss",
+    "http://www.ad.nl/rss.xml",
+    "http://rss.fok.nl/feeds/nieuws",
+    "http://www.volkskrant.nl/sport/rss.xml",
+    "http://www.thomann.de/it/rss_changes_BN_stentor.xml",
+    "http://www.nrc.nl/rss.php",
+    "http://www.omroepbrabant.nl/rss/",
+    "http://www.myictservices.nl/?feed=rss2&p=1906",
+    "https://filmfestivalbreda.wordpress.com/feed/",
+    "http://www.elsevier.nl/Service/RSS/Feed/Politiek/",
+    "http://www.tedxamsterdamed.nl/feed/"
+  ],
+  "New Caledonia": [
+    "http://wikipediaturk.com/viki/canal-liga-campeones-8-canli-izle/feed",
+    "https://dncchat.wordpress.com/feed/"
+  ],
+  "New Zealand": [
+    "http://www.stuff.co.nz/rss/",
+    "http://rss.nzherald.co.nz/rss/xml/nzhrsscid_000000001.xml",
+    "http://cloudmedia.co.nz/category/news/feed",
+    "http://www.odt.co.nz/news/feed",
+    "http://www.radionz.co.nz/rss/all-highlights.xml",
+    "http://www.scoop.co.nz/storyindex/index.rss?s.c=HL",
+    "http://www.nbr.co.nz/rss.xml",
+    "http://radioradio.it/podcast/?visualizza=RADIO%2520RADIO%2520LO%2520SPORT",
+    "http://www.nycradiolive.org/?feed=podcast"
+  ],
+  "Nicaragua": [
+    "http://www.rlp.com.ni/rss/general",
+    "http://www.desdechinandega.com/multinoticias-canal-4-lleva-a-toda-nicaragua-transmision-de-la-purisima.html/feed"
+  ],
+  "Niger": [
+    "http://www.tamtaminfo.com/feed/",
+    "http://nigerdiaspora.net/?type=rss&format=feed",
+    "http://www.republicain-lorrain.fr/rss",
+    "http://www.tunisientunisie.com/tag/sahal/feed/"
+  ],
+  "Nigeria": [
+    "http://www.punchng.com/feed/",
+    "http://mp3.sun.az/rss.php",
+    "http://www.tribune.com.ng/index.php?format=feed&type=rss",
+    "http://www.wikihow.com/feed.rss",
+    "http://nigershowbiz.com/?feed=rss2&cat=106",
+    "http://mavelopwap.wordpress.com/feed/",
+    "http://www.liveschoolnews.com.ng/tag/axa-achievement-scholarship-in-association-with-u-s-news-and-world-report-now-open/feed/",
+    "http://www.informationng.com/feed"
+  ],
+  "North Korea": ["http://www.dailybrink.com/?feed=rss2&p=1791"],
+  "Norway": [
+    "http://www.vg.no/rss/feed/?limit=10&format=rss&categories=&keywords=",
+    "https://labrador.dagbladet.no/?op=GetRss&&incTags=magasinet",
+    "http://www.nrk.no/toppsaker.rss",
+    "http://www.abcnyheter.no/rss.xml",
+    "http://www.aftenposten.no/rss/",
+    "http://e24.no/rss/",
+    "http://guru.sol.no/category/question-topics/start/feed",
+    "http://www.bt.no/rss/",
+    "http://www.aftenbladet.no/rss/",
+    "http://www.hegnar.no/?service=rss",
+    "http://www.newsinenglish.no/2013/10/20/ministers-adapt-to-life-in-a-fish-bowl/feed/"
+  ],
+  "Oman": [
+    "http://ajans.ciu.edu.tr/?feed=rss2&tag=oman",
+    "http://www.azamn.com/?feed=rss2"
+  ],
+  "Pakistan": [
+    "https://dailyjang.wordpress.com/tag/daily-jang/feed/",
+    "http://www.geo.tv/podcast/GeoHeadlines.rss",
+    "http://feeds.feedburner.com/daily-express-news-showbiz",
+    "http://forum.dawn.com/feed/",
+    "http://www.zemtv.com/category/dunya-news-tv/feed/",
+    "http://www.pakistantoday.com.pk/feed/",
+    "http://www.dailytimes.com.pk/rss_feeds"
+  ],
+  "Palestine": [
+    "http://feeds.alwatanvoice.com/arabic/people.xml",
+    "https://citizenpartridge.wordpress.com/feed/",
+    "http://www.nablustv.net/xml.asp",
+    "http://www.raya.ps/rss"
+  ],
+  "Panama": [
+    "http://www.prensa.com/rss/",
+    "http://critica.com.pa/rss.xml",
+    "http://www.panamaamerica.com.pa/rss.xml",
+    "http://feeds.feedburner.com/torreon",
+    "http://www.diaadia.com.pa/?q=rss/creciendo",
+    "http://www.dealante.com/upload/dealante.rss",
+    "http://www.gacetaoficial.gob.pa/rss-feeds.php",
+    "http://www.noticiassin.com/feed/",
+    "http://www.odditysoftware.com/database_feed_Central+America+Geocode+Data.htm"
+  ],
+  "Papua New Guinea": [
+    "http://feeds.nationalgeographic.com/ng/News/News_Main",
+    "http://www.lngworldnews.com/tag/png/feed/"
+  ],
+  "Paraguay": [
+    "http://www.hoy.com.py/feed/destacados",
+    "http://www.capitanbadonews.com/noticia/amambay/identifican-cadaver-hallado-en-el-amambay-noticias-sin-fronteras/31305/feed"
+  ],
+  "Peru": [
+    "http://elrinconperuano.com/feed/",
+    "http://feeds.feedburner.com/netjovennoticias",
+    "https://www.aja.com/en/rss",
+    "http://www.generaccion.com/noticia/rss/",
+    "http://www.losandes.com.pe/?c=rss"
+  ],
+  "Philippines": [
+    "http://www.philstar.com/rss/entertainment",
+    "http://rss.sunstar.com.ph/SunStarCebu",
+    "http://www.interaksyon.com/rss",
+    "http://www.rappler.com/?format=feed&type=rss?format=feed&type=rss",
+    "http://vimeo.com/channels/manilakoreantimes/videos/rss"
+  ],
+  "Poland": [
+    "http://rss.gazeta.pl/pub/rss/wiadomosci.xml",
+    "http://pogoda.interia.pl/feed",
+    "http://wiadomosci.onet.pl/.feed",
+    "http://wiadomosci.wp.pl/rss.xml",
+    "http://nocoty.pl/rss.xml",
+    "http://www.money.pl/rss/main.xml",
+    "http://nasygnale.pl/rss.xml",
+    "http://www.tvn24.pl/najwazniejsze.xml",
+    "http://airportsuperexpress.wordpress.com/feed/",
+    "https://sport.tvp.pl/sport.tvp.pl/rss+xml.php",
+    "http://www.rp.pl/rss/2.html",
+    "http://rss.dziennik.pl/Dziennik-Wiadomosci"
+  ],
+  "Portugal": [
+    "http://www.cmjornal.xl.pt/rss.aspx",
+    "http://feeds.record.xl.pt/",
+    "https://fugas.publico.pt/RSS",
+    "http://feeds.jn.pt/JN-ultimas",
+    "http://feeds.dn.pt/DN-Ultimas",
+    "http://vimeo.com/channels/pngpcinema/videos/rss",
+    "http://feeds.ojogo.pt/OJ-Futebol",
+    "http://www.maisfutebol.iol.pt/rss.xml"
+  ],
+  "Puerto Rico": [
+    "http://www.telemundopr.com/telenoticias/puerto-rico/index.rss2",
+    "http://noticel.com/feed",
+    "http://www.ixposednewsonline.com/feeds/posts/default?alt=rss",
+    "http://estrella51.blogspot.com/feeds/posts/default?alt=rss"
+  ],
+  "Qatar": [
+    "http://www.beyaz.org/al-sharq-1-2-al-zulfi-mac-ozeti-13-12-2014/feed/",
+    "http://www.alarab.qa/rss",
+    "http://news.peninsula.com/rss/EN/THE-PENINSULA-BANGKOK/NEWS",
+    "http://feeds.feedburner.com/DohaNews",
+    "http://www.qatar-gulfnews.com/feed/"
+  ],
+  "Republic of the Congo": [
+    "http://www.lasemaineafricaine.net/index.php/sabonner/26-rubriques?format=feed&type=rss",
+    "http://drtvinfomercial.wordpress.com/feed/"
+  ],
+  "Reunion": [
+    "http://www.antennereunion.fr/spip.php?page=backend",
+    "http://reunion.la1ere.fr/social/rss",
+    "http://www.linfo.re/spip.php?page=backend",
+    "http://pvsq.org/tag/reunion/feed/"
+  ],
+  "Romania": [
+    "http://adevarul.ro/rss/",
+    "http://www.gandul.info/rss/autor/raluca-ion",
+    "http://rss.realitatea.net/stiri.xml",
+    "http://www.acasatv.ro/cancan-ro/rss",
+    "http://rss.stirileprotv.ro/",
+    "http://www.ziare.com/rss/actualitate.xml",
+    "http://promoa3.antena3.ro/teaser-antena-3/feed/",
+    "http://jurnalul.ro/rss",
+    "http://www.gsp.ro/rss.xml",
+    "http://www.mediafax.ro/blog/comments/feed/",
+    "http://www.sport.ro/stiri-despre/steaua/rss/",
+    "http://feeds.feedburner.com/GandulFinanciar",
+    "http://neatza.a1.ro/rss.xml"
+  ],
+  "Russia": [
+    "http://news.yandex.ru/Uzbekistan/index.rss",
+    "http://cadet-life1998-mail-ru.webnode.ru/rss/novosti.xml",
+    "http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcnews.com/mainnews.rss",
+    "http://fr.ria.ru/export/rss2/index.xml",
+    "http://stepconsulting.ru/editions/gazeta-komsomolskaya-pravda/feed",
+    "http://news.rambler.ru/rss/28477137/",
+    "http://lenta.ru/rss/",
+    "http://www.utro.ru/export/rss2.xml",
+    "http://www.novotekaru.ru/feed/",
+    "http://www.elkost.it/interviews/25-years-with-eco-elena-kostioukovitch-interview-to-echo-moskvi-radio-station-15062008-in-russian-text-audio/feed/",
+    "http://www.infox.ru/rss.xml",
+    "http://www.ntv.ru/exp/newsrss.jsp",
+    "http://www.interfax.ru/rss.asp"
+  ],
+  "Rwanda": [
+    "http://www.kigalitoday.com/spip.php?page=backend",
+    "http://www.rba.gov.au/rss/rss-cb-exchange-rates.xml",
+    "http://www.umuvugizi.com/?feed=rss2&lang=en"
+  ],
+  "Saint Helena": [
+    "http://www.islander.org/feed/",
+    "http://www.saint.fm/home/feed/",
+    "http://southernchestercountyweeklies.kaango.com/ads/feed/rss?adtype=Sale+Ad&city=Bridgeport&distance=1000&importstatus=liner&latlong=39.879899%2C-76.148321&market=2&price=10000-50000&sort=date&v=2&where=Quarryville%2C+Pennsylvania"
+  ],
+  "Samoa": [
+    "http://www.samoanews.com/?q=rss.xml&quicktabs_3=0",
+    "http://www.samoanews.com/?q=taxonomy/term/115/all/feed",
+    "http://www.savalinews.com/tag/cbs-survivor/feed/",
+    "http://www.talamua.com/feed/"
+  ],
+  "San Marino": [
+    "http://www.libertas.sm/contenuti/rss/38/news.xml",
+    "http://feeds.feedburner.com/sanmarinonotizie/wCEE",
+    "http://giornalesm.com/feed/",
+    "http://img.livetv.ru/rss/upcoming_en.xml"
+  ],
+  "Sao Tome and Principe": [
+    "http://www.telanon.info/politica/2014/12/27/18307/stop/feed/"
+  ],
+  "Saudi Arabia": [
+    "https://www.aleqt.com/search?rss=1&author=reem_asaad",
+    "http://aawsat.com/feed",
+    "http://www.slaati.com/feed"
+  ],
+  "Senegal": [
+    "http://www.dakaractu.com/xml/podcast.xml",
+    "http://www.leral.net/xml/syndication.rss",
+    "http://www.infosrewmi.com/macky-retire-a-wade-son-aide-de-camp-serait-il-en-train-de-retirer-le-titre-dancien-chef-de-letat-a-son-predecesseur/feed/",
+    "http://senego.com/feed",
+    "http://xalimasn.com/une-refutation-des-theses-de-lanimateur-tekhe-gaye-et-autres-porte-propagandes-sur-les-supposes-60-milliards-de-aliou-sall/feed/",
+    "http://xibaaru.com/tag/walfadjri/feed/",
+    "http://www.lesoleil.sn/index.php?option=com_content&view=category&id=27&layout=blog&Itemid=44&format=feed&type=rss",
+    "http://www.sanslimitesn.com/tag/exclusivite-pressafrik-com/feed/",
+    "http://www.setal.net/xml/forum.rss?s=212388",
+    "http://www.senenews.com/tag/kemi-keba/feed",
+    "http://www.wiwsport.com/rss/fluxrss.xml"
+  ],
+  "Serbia": [
+    "http://www.blic.rs/rss/danasnje-vesti",
+    "http://podcast.b92.net/kaziprst.xml",
+    "http://www.kurir-info.rs/rss/zabava/",
+    "http://www.rts.rs/page/tv/sr/podcast/4548/Studio+3/video.html",
+    "http://crittendenpress.blogspot.com/feeds/posts/default?alt=rss",
+    "http://www.naslovi.net/rss/politika/",
+    "http://feeds.feedburner.com/NelMondoNostro",
+    "http://feeds.wnyc.org/onthemedia",
+    "http://www.telegraf.rs/telegrafrss",
+    "http://www.danas.rs/rss/rss.asp?column_id=0",
+    "http://www.pirotskevesti.rs/sport/13135/feed/"
+  ],
+  "Seychelles": [
+    "http://traveltips.usatoday.com/rss/seychelles.xml",
+    "http://www.virtual-lands-3d.com/rss.xml.html"
+  ],
+  "Sierra Leone": [
+    "http://standardtimespress.org/?feed=rss2",
+    "http://www.sierraexpressmedia.com/?feed=rss2&p=71870",
+    "http://www.globaltimes-sl.com/feed/",
+    "http://www.thepatrioticvanguard.com/spip.php?page=backend"
+  ],
+  "Singapore": ["http://www.medhaber.net/etiket/the-strait-times/feed/"],
+  "Slovakia": [
+    "https://www.mywot.com/en/scorecard/topky.sk/feed",
+    "http://rss.sme.sk/rss/rss.asp?sek=smeonline",
+    "http://www.aktuality.sk/rss/",
+    "http://www.cas.sk/rss/",
+    "http://servis.pravda.sk/rss.asp",
+    "http://rss.sme.sk/rss/rss.asp?id=frontpage",
+    "http://hnonline.sk/rss/1",
+    "http://rss.sme.sk/rss/rss.asp?sek=sport&rub=sport_futbal",
+    "http://openiazoch.zoznam.sk/rss.asp",
+    "http://www.webnoviny.sk/rss/rss-trenciansky-kraj.rss",
+    "http://www.ta3.com/rss/3/novinky-z-domova.html"
+  ],
+  "Slovenia": [
+    "http://www.siol.net/rss.aspx?path=SiOL.Net",
+    "http://www.rtvslo.si/feeds/01.xml",
+    "http://www.zurnal24.si/index.php?ctl=show_rss",
+    "http://www.delo.si/rss/",
+    "http://www.slovenskenovice.si/rss",
+    "http://www.soa.si/category/net/feed/",
+    "http://www.glasbenamladina.si/?feed=rss2",
+    "http://feeds.feedburner.com/LokalnoAktualno",
+    "http://feeds.feedburner.com/DolenjskiList",
+    "https://7dni.wordpress.com/feed/",
+    "http://www.gorenjskiglas.si/rss",
+    "http://www.nogomania.com/Rss.ashx"
+  ],
+  "Solomon Islands": [
+    "http://feeds.feedburner.com/bellona-in-media-org",
+    "http://www.solomontimes.com/rss/latest-news.xml",
+    "http://www.sibconline.com.sb/feed/"
+  ],
+  "Somalia": [
+    "http://rss.hiiraan.com/rss.xml",
+    "https://calankasomalia.wordpress.com/feed/",
+    "http://feeds.feedburner.com/waagacusubmedia",
+    "http://www.voasomali.com/api/",
+    "http://somalifirenze.blogspot.com/feeds/posts/default?alt=rss",
+    "http://somaliwayn.org/?feed=rss2",
+    "http://www.boocameonline.com/comments/feed/",
+    "http://boramanews.com/index.php?format=feed&type=rss"
+  ],
+  "South Africa": [
+    "http://feeds.news24.com/articles/News24/SouthAfrica/rss",
+    "http://www.sport24.gr/?widget=rssfeed&view=feed&contentId=174866",
+    "http://www.channel24.pk/feed/",
+    "http://www.africanmoviesnews.com/2012/09/genevieve-nnaji-shines-through-on-howzit-msn-africa/feed/",
+    "http://mg.co.za/rss",
+    "http://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+  ],
+  "South Korea": [
+    "http://rss.donga.com/sports.xml",
+    "http://www.economist.com/feeds/print-sections/73/asia.xml",
+    "http://news.mk.co.kr/rss/economy_all.xml",
+    "http://rss.hankyung.com/ft.xml",
+    "http://marriagetoday.com/rss/mt_feed_audio.xml",
+    "http://www.smh.com.au/rssheadlines/top.xml",
+    "http://rss.edaily.co.kr/edaily_news.xml",
+    "http://www.koreaherald.com/rss_xml.php",
+    "http://www.mydaily.co.uk/rss.xml"
+  ],
+  "South Sudan": [
+    "http://www.activeboard.com/rss.spark?forumID=27948",
+    "http://www.southsudannewsagency.com/news/analyses?start=66&format=feed&type=rss"
+  ],
+  "Spain": [
+    "http://elpais.com/rss/elpais/portada.xml",
+    "http://rss.elmundo.es/rss/descarga.htm?data2=4",
+    "http://www.rtve.es/download/podcast?IDPODCAST=22",
+    "http://www.20minutos.es/rss/minuteca/20minutoses/",
+    "http://www.expansion.com/blogs/diario/index.xml",
+    "http://www.elconfidencial.com/rss/noticias.xml",
+    "http://rss.libertaddigital.com/libertaddigital/portada",
+    "https://www.meneame.net/m/actualidad/rss?p=tags&q=intereconom%C3%ADa",
+    "http://www.publico.es/rss/",
+    "http://www.europapress.es/rss/rss.aspx?ch=549",
+    "http://cincodias.com/rss/tags/ultimas_noticias.xml",
+    "http://www.elcorreo.com/vizcaya/portada.xml",
+    "http://www.lavozdegalicia.es/galicia/index.xml",
+    "http://www.invertia.com/rss.asp"
+  ],
+  "Sri Lanka": [
+    "http://srilankamirror.com/news?format=feed&type=rss",
+    "http://www.lankahotnews.net/feeds/posts/default?alt=rss",
+    "http://www.paradiseisland.com.tr/?feed=rss2"
+  ],
+  "St. Kitts & Nevis": [
+    "http://www.nevispages.com/nevispages-persons-of-the-year-2014-mr-llewellyn-sunshine-caines-and-mr-randy-jeffers/feed/",
+    "http://www.winnfm.com/?format=feed&type=rss",
+    "http://observer.com/tag/st-kitts-and-nevis/feed/",
+    "http://zizonline.com/feed/"
+  ],
+  "St. Lucia": [
+    "http://stluciastar.com/feed/",
+    "http://www.thevoiceslu.com/feed/",
+    "http://www.htsprint.co.uk/blog/feed/"
+  ],
+  "St. Vincent & the Grenadines": [
+    "http://www.searchlightcanada.com/?q=rss.xml",
+    "http://vincentians.org.au/?feed=rss2",
+    "http://www.nbcsvg.com/tag/meat/feed/"
+  ],
+  "Sudan": [
+    "http://www.sudaneseonline.com/en216/publish/rss.xml",
+    "http://www.bing.com:80/",
+    "http://www.hurriyatsudan.com/?feed=rss2",
+    "http://akhirlahza.info/akhir/index.php?format=feed&type=rss",
+    "http://www.goansport.net/new/taxonomy/term/20/all/feed",
+    "http://www.sudanjem.com/feed/",
+    "http://www.ashorooq.net/index.php?option=com_ninjarsssyndicator&feed_id=1&format=raw",
+    "http://www.hiltna.com/feed"
+  ],
+  "Suriname": [
+    "http://www.starnieuws.com/rss/starnieuws.rss",
+    "http://www.gfcnieuws.com/?feed=rss2",
+    "http://www.waterkant.net/feed/",
+    "http://www.dbsuriname.com/dbsuriname/index.php/feed/"
+  ],
+  "Sweden": [
+    "http://www.aftonbladet.se/?service=rss",
+    "http://www.expressen.se/rss/nyheter",
+    "http://www.dn.se/nyheter/m/rss",
+    "http://www.di.se/rss/",
+    "http://www.svd.se/nyheter/inrikes/?service=rss",
+    "http://www.gp.se/17.121/1.4450",
+    "http://www.sydsvenskan.se/rss.xml?type=section&id=528225",
+    "http://hd.se/?view=rss",
+    "http://blogg.dt.se/emilslifblogg/exempelsida/feed/",
+    "http://rss.nwt.se/nwtse_karlstad"
+  ],
+  "Switzerland": [
+    "http://www.blick.ch/rss",
+    "http://www.20min.ch/rss/front.tmpl",
+    "http://www.tagesanzeiger.ch/rss.html",
+    "http://www.nzz.ch/startseite.rss",
+    "http://www.srf.ch/sport/bnf/rss/718",
+    "http://www.rts.ch/?rss=tas-entendu",
+    "http://www.24heures.ch/rss.html",
+    "http://www.bernerzeitung.ch/rss.html",
+    "http://www.tdg.ch/rss.html",
+    "http://www.romandie.com/rss/flux.xml",
+    "http://feeds.tio.ch/Ticinonline-NewsTicino",
+    "http://www.jensweinreich.de/2013/11/10/buergerentscheide-muenchen-2022-historisches-votum-gegen-eine-deutsche-olympiabewerbung/feed/"
+  ],
+  "Syria": [
+    "http://www.alhayat.tv/feed/",
+    "http://www.ascertainthetruth.com/att/index.php/component/jcomments/feed/com_content/607",
+    "http://voxnews.info/2013/12/14/si-uniscono-ai-terroristi-islamici-ora-due-immigrate-vogliono-tornare-in-norvegia/feed/",
+    "http://almsetehh.forumarabia.com/feed/",
+    "http://www.syriasteps.com/rss.php",
+    "http://www.dampress.net/sitemap.xml",
+    "http://www.sooryoon.net/feed"
+  ],
+  "Taiwan": [
+    "http://udn.com/udnrss/health.xml",
+    "http://tendy1314.wordpress.com/feed/",
+    "http://orientaldaily.on.cc/rss/adult.xml"
+  ],
+  "Tajikistan": [
+    "http://tojikona.wordpress.com/comments/feed/",
+    "http://tjknews.com/?feed=rss2&p=4882",
+    "http://www.fergananews.com/rss.php",
+    "http://www.centrasia.ru/rss/redtram.xml"
+  ],
+  "Tanzania": [
+    "https://software.intel.com/en-us/articles/feed/42114%2C20782",
+    "http://www.freemedia.co.tz/daima/dk-hamza-kondo-mtanzania-kwa-kwanza-kutunukiwa-phd-ya-mawasiliano-ya-umma-nchini/feed/",
+    "http://www.habarileo.co.tz/index.php?format=feed&type=rss",
+    "http://feeds.feedburner.com/wavuti",
+    "http://raiamwema.co.tz/?q=taxonomy/term/216/all/feed",
+    "http://mwanahalisi.co.tz/rss.xml",
+    "http://mwongozo.wordpress.com/2006/12/26/zana-ya-kutengeneza-blogu-au-tovuti-yako-2/feed/",
+    "http://desertification.wordpress.com/category/desertification/drylands/feed/",
+    "http://world.time.com/tag/arusha/feed/"
+  ],
+  "Thailand": [
+    "http://rssfeeds.sanook.com/rss/feeds/sanook/news.crime.xml",
+    "http://www.thairath.co.th/rss/news.xml",
+    "http://www.komchadluek.net/rss/politic.xml"
+  ],
+  "Togo": [
+    "http://feeds.feedburner.com/AfricaRiceGoogleNews",
+    "http://www.tvt.blogfa.com/rss",
+    "http://feeds2.feedburner.com/Actualite_Togo",
+    "http://liberte-togo.com/l/feed/",
+    "http://www.togoquebec.ca/communiques/feed/"
+  ],
+  "Tonga": ["http://matangitonga.to/taxonomy/term/2904/feed"],
+  "Trinidad & Tobago": [
+    "http://www.trinidadexpress.com/news/index.rss",
+    "http://www.trinidadandtobagonews.com/blog/?feed=rss2",
+    "http://tntmirror.com/?feed=rss2"
+  ],
+  "Tunisia": [
+    "http://www.businessnews.com.tn/rss.xml",
+    "http://directinfo.webmanagercenter.com/2013/08/24/tunisie-legitimite-electorale-contre-volonte-populaire/feed/",
+    "http://www.tuniscope.com/rss",
+    "http://www.leaders.com.tn/rss",
+    "http://www.prosdelacom.com/index.php/rss",
+    "http://www.jawharafm.net/ar/rss/showRss/88/1/69",
+    "http://www.espacemanager.com/taxonomy/term/3572/feed",
+    "http://footplus.tn/feed"
+  ],
+  "Turkey": [
+    "http://www.sabah.com.tr/rss/anasayfa.xml",
+    "http://www.mynet.com/haber/rss/sondakika",
+    "http://www.haberturk.com/haberturk.xml",
+    "http://sondakika.haber7.com/sondakika.rss",
+    "http://rss.haberler.com/rsskonu.asp?konu=guncel",
+    "http://www.internethaber.com/rss/last_min.xml",
+    "http://magazintivi.wordpress.com/feed/",
+    "http://www.fotomac.com.tr/rss/besiktas.xml",
+    "http://www.sporx.com/_xml/rss.php",
+    "http://www.stargazete.com/rss/rss.asp",
+    "http://www.turkiyegazetesi.com.tr/rss/rss.xml",
+    "http://www.cumhuriyet.com.tr/rss/son_dakika.xml",
+    "http://www.yenisafak.com.tr/rss/",
+    "http://www.yeniakit.com.tr/haber/rss",
+    "http://www.posta.com.tr/xml/rss/rss_1_0.xml",
+    "http://www.sozcu.com.tr/rss",
+    "http://www.star.com.tr/rss/rss.asp",
+    "http://www.imctv.com.tr/feed/",
+    "http://www.aljazeera.com.tr/rss.xml"
+  ],
+  "Turkmenistan": ["http://www.turkmenistanhavayollari.gen.tr/feed/"],
+  "Turks & Caicos": [
+    "http://www.turks-and-caicos-beach-vacation.com/turks-and-caicos.xml",
+    "http://magneticmediatv.com/tag/the-turks-and-caicos-weekly-news/feed/",
+    "http://www.timespub.tc/2002/06/rediscovering-the-hidden-culture-folk-songs/feed/"
+  ],
+  "Uganda": [
+    "http://www.redpepper.co.ug/feed/",
+    "http://observer.ug/index.php?option=com_jcomments&task=rss&object_id=35370&object_group=com_content&format=raw",
+    "http://www.independent.co.ug/business?format=feed&type=rss",
+    "http://feeds.feedburner.com/Bigeyeug"
+  ],
+  "UK": [
+    "http://feeds.bbci.co.uk/news/rss.xml",
+    "https://uk.news.yahoo.com/rss/uk",
+    "https://eurosport.yahoo.com/?format=rss",
+    "http://www.telegraph.co.uk/news/rss",
+    "http://feeds.bbci.co.uk/news/england/rss.xml",
+    "http://www.thesun.co.uk/sol/homepage/rss/",
+    "http://www1.skysports.com/rss/11095",
+    "http://www.independent.co.uk/?service=Rss",
+    "http://www.mirror.co.uk/news/rss.xml",
+    "http://metro.co.uk/feed/",
+    "http://www.ft.com/rss/world",
+    "http://www.dailyrecord.co.uk/rss.xml",
+    "http://www.express.co.uk/posts/rss/139/",
+    "http://www.economist.com/rss/the_world_this_week_rss.xml",
+    "http://www.manchestereveningnews.co.uk/?service=rss",
+    "http://www.standard.co.uk/news/rss/",
+    "http://www.walesonline.co.uk/news/wales-news/rss.xml",
+    "http://www.thescottishsun.co.uk/scotsol/homepage/news/rss/",
+    "http://www.aberdeen-mad.co.uk/rssfeeds/rssfull.asp",
+    "http://www.expressandstar.com/news/feed/",
+    "http://news.stv.tv/?format=rss",
+    "http://www.nowmagazine.co.uk/feeds/headline/celebrity-news.rss"
+  ],
+  "Ukraine": [
+    "http://mail.bigmir.net/?_ctr=rss",
+    "http://www.segodnya.ua/xml/rss/yandex_rss.xml",
+    "https://www.tcnp3.com/home/feed/",
+    "http://gazeta.ua/ru/rss",
+    "http://censor.net.ua/includes/news_ru.xml",
+    "http://rss.unian.net/site/news_eng.rss",
+    "http://kp.ua/rss/feed.xml",
+    "http://obozrevatel.com/rss.xml",
+    "http://podrobnosti.ua/rss/sports.rss/",
+    "http://zn.ua/rss/",
+    "http://comments.ua/export/rss_ru.xml"
+  ],
+  "United Arab Emirates": [
+    "http://jobs.emaratalyoum.com/rss/",
+    "http://qatarisbooming.com/taxonomy/term/39621/all/feed",
+    "http://jobs.emirates247.com/rss/"
+  ],
+  "Uruguay": [
+    "http://www.elpais.com.uy/rss/",
+    "http://www.lr21.com.uy/author/alejandrinamorelli/feed",
+    "http://feeds.feedburner.com/requechando",
+    "http://1a-inet-2012.webnode.com.uy/rss/organizacion-del-computador.xml",
+    "http://www.unoticias.com.uy/RSS/economia.xml",
+    "http://180.com.uy/feed.php",
+    "http://diariolarepublica.net/category/excluir-nota/feed",
+    "http://www.uypress.net/anxml.aspx?13",
+    "http://urugol.com/feed/"
+  ],
+  "US": [
+    "http://rss.cnn.com/rss/cnn_topstories.rss",
+    "http://www.huffingtonpost.com/feeds/index.xml",
+    "http://sports.espn.go.com/espn/rss/news",
+    "http://feeds.foxsports.com/feedout/syndicatedContent?categoryId=0",
+    "http://feeds.foxnews.com/foxnews/politics",
+    "http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "http://abcnews.go.com/xmldata/rss?id=4380645",
+    "http://rssfeeds.usatoday.com/usatoday-NewsTopStories",
+    "http://www.tmz.com/rss.xml",
+    "http://www.latimes.com/rss2.0.xml",
+    "http://www.yardbarker.com/rss/rumors",
+    "http://bleacherreport.com/articles/feed",
+    "http://feeds.cbsnews.com/CBSNewsMain",
+    "http://www.newsmax.com/rss/Politics/1.xml/",
+    "http://feeds.nydailynews.com/nydnrss/news",
+    "http://www.bloomberg.com/feed/podcast/bloomberg-brief.xml",
+    "http://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "http://www.examiner.com/rss/all/top-news",
+    "http://www.usmagazine.com/celebrity_news/rss",
+    "http://www.cbssports.com/partners/feeds/rss/home_news",
+    "http://feeds.slate.com/slate",
+    "http://nypost.com/news/feed/",
+    "http://feeds.marketwatch.com/marketwatch/marketpulse/",
+    "http://www.npr.org/rss/rss.php?id=1004",
+    "http://www.sfgate.com/bayarea/feed/bay-area-news-429.php",
+    "http://time.com/feed/",
+    "http://www.businessweek.com/feeds/homepage.rss",
+    "http://seekingalpha.com/feed.xml",
+    "http://rss.csmonitor.com/feeds/csm",
+    "http://techcrunch.com/feed/",
+    "http://www.rantsports.com/feed/",
+    "http://feeds.feedburner.com/breitbart",
+    "http://feeds.wired.com/wired/index"
+  ],
+  "Uzbekistan": [
+    "http://www.gazeta.uz/rss/",
+    "http://enews.fergananews.com/news.xml",
+    "http://uz24.uz/rss.php?lang=uz",
+    "http://www.svet.rs/najnovije-vesti/uz-kolege-je-jaca-njena-poseta-ju-je-posebno-ganula/galerija/dona-ares-i-selma/feed",
+    "http://ytro-v-lesu.livejournal.com/data/rss"
+  ],
+  "Vanuatu": [
+    "http://www.dailypost.vu/search/?q=\"premier%20league\"&t=&l=25&d=&d1=&d2=&s=start_time&sd=desc&f=rss"
+  ],
+  "Vatican": [
+    "http://feeds.feedburner.com/zenit/french",
+    "http://vaticaninsider.lastampa.it/rss-feed/articolo/37965/"
+  ],
+  "Venezuela": [
+    "http://www.lapatilla.com/site/feed/",
+    "http://globovision.com/feed/",
+    "http://www.noticierodigital.com/feed/",
+    "http://www.meridiano105.com.mx/?feed=rss2&cat=11",
+    "http://feeds.feedburner.com/aporrea/noticias",
+    "http://www.ellider.com.co/category/deportes/feed/"
+  ],
+  "Vietnam": [
+    "http://vnexpress.net/rss/kinh-doanh.rss",
+    "http://www.24h.com.vn/upload/rss/tintuctrongngay.rss",
+    "http://ngoisao.net/rss/hau-truong.rss",
+    "http://www.indicine.com/news/soha-ali-khan/feed/",
+    "http://videos.vietgiaitri.com/?act=rssout&id=6",
+    "http://www.tinmoi.vn/rss/Tin-tuc.rss"
+  ],
+  "Virgin Islands": [
+    "http://www.virginaustralia.com/au/en/rss/media/",
+    "http://bvinews.com/new/feed/"
+  ],
+  "Yemen": [
+    "https://marebpress.net/news_rss.php",
+    "http://almasdar.ma/?feed=comments-rss2",
+    "http://al-tagheer.com/rss.php",
+    "http://afrahnasser.blogspot.com/feeds/posts/default?alt=rss",
+    "http://hshd.net/rss.php",
+    "http://almotamar.net/en/rssfeed.php?id=6992",
+    "http://musulmanin.com/ramadan-v-istorii-den-16.html/feed/"
+  ],
+  "Zambia": [
+    "http://tumfweko.com/feed/",
+    "http://feeds.feedburner.com/lusakatimes/hyJU",
+    "http://nypost.com/feed/",
+    "http://www.times.co.zm/?feed=rss2",
+    "http://www.znbc.co.zm/?feed=rss2"
+  ],
+  "Zimbabwe": [
+    "http://nehandaradio.com/2012/06/09/angry-moyo-rants-at-south-african-envoy/feed/",
+    "http://bulawayo24.com/feeds-rss-rss.rss",
+    "http://allafrica.com/tools/headlines/rdf/zimbabwe/headlines.rdf",
+    "http://thestandard.org.nz/feed/",
+    "http://outside24.pressdisplay.com/epaper/services/rss.ashx?cid=1970&type=full",
+    "http://thezimbabwemail.com/feed/",
+    "http://www.zimeye.org/feed/"
+  ]
+}
